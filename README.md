@@ -12,6 +12,5 @@
 * ⚡ Fun fact: 
 
 
-[Stak](https://stackedit.io/)
-
-https://markdownlivepreview.com/
+[Stak](https://stackedit.io/).
+[Markdown](https://markdownlivepreview.com/)
