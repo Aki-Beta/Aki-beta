@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Hello everyone, my name is Angela Garcia this is my repository and I am talking about me. 
+# Hello everyone, my name is Angela Garcia this is my repository and I am talking about me. 
 I'm a woman 
 
 - 🔭 I’m currently working on 
